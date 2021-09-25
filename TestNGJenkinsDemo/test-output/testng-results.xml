@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T04:38:06 IST" name="Suite" finished-at="2021-09-24T04:38:13 IST" duration-ms="6936">
+    <groups>
+    </groups>
+    <test started-at="2021-09-24T04:38:06 IST" name="Test" finished-at="2021-09-24T04:38:13 IST" duration-ms="6936">
+      <class name="Demoprogs.TestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demoprogs.TestClass@2d3379b4]" started-at="2021-09-24T04:38:06 IST" name="setup" finished-at="2021-09-24T04:38:08 IST" duration-ms="2717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCase1()[pri:0, instance:Demoprogs.TestClass@2d3379b4]" started-at="2021-09-24T04:38:08 IST" name="testCase1" finished-at="2021-09-24T04:38:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:Demoprogs.TestClass@2d3379b4]" started-at="2021-09-24T04:38:08 IST" name="testCase2" finished-at="2021-09-24T04:38:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Demoprogs.TestClass@2d3379b4]" started-at="2021-09-24T04:38:08 IST" name="tearDown" finished-at="2021-09-24T04:38:13 IST" duration-ms="4190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Demoprogs.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
